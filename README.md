@@ -3,7 +3,7 @@
 ** 适用于JAVA后台和前端开发岗位实习生基础技能储备**
 
 ## 1. 目标
-掌握angular2.0+springboot+mybatis技术栈，nginx的基本代理使用，数据库oracle的使用，基本linux操作进行发布部署。
+掌握angular2.0+springboot+mybatis技术栈，nginx的基本代理使用，数据库mysql的使用，基本linux操作进行发布部署。
 
 ## 2. 题目
 使用上述技术栈完成用户注册、登录、修改密码的系统开发，linux环境发布部署。
@@ -21,5 +21,24 @@
 
 ## 5. 开发服务器信息
 
-## 6. 答疑联系
+1. 数据库 已通过如下建库语句创建好了库
+``` sql
+CREATE DATABASE IF NOT EXISTS c1test01 DEFAULT CHARSET utf8 COLLATE utf8_general_ci; 
+```
+数据库IP 101.52.252.44
+数据库PORT 8080
+数据库用户 test01
+数据库密码 test01#@abc
+
+## 6. 过程指引
+
+#### 6.1. 网页端开发提示
+
+xxx
+
+#### 6.2. JAVA端开发提示
+
+xxx
+
+## 7. 答疑联系
 QQ群：871557745 （入群申请备注姓名）
