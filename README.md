@@ -40,8 +40,28 @@ CREATE DATABASE IF NOT EXISTS c1test01 DEFAULT CHARSET utf8 COLLATE utf8_general
 
 #### 6.1. 网页端开发提示
 
-1. 安装nodejs和npm
-2. 通过脚手架创建基本工程
+1. nodejs
+    安装包：https://nodejs.org/download/release/v10.17.0/node-v10.17.0-win-x86.zip
+    版本：v10.17.0 附带npm版本：6.11.3
+2. Visual Studio Code
+    安装包: https://code.visualstudio.com//
+3. Angular-cli
+    版本：1.7.2
+    对应Angular版本：5.2.0
+    npm全局安装Angular-cli命令：npm install -g Angular-cli@1.7.2
+    npm命令大全：https://blog.51cto.com/u_12173069/2088821
+    官网：https://angular.cn/cli
+    介绍：Angular-cli不仅仅能够创建一个Angular项目，还提供了快捷命令生成组件、模块、路由、服务等等
+4. Angular
+    官网：https://angular.cn/docs
+    快速体验：StackBlitz 在线开发环境
+    官方demo：https://angular.cn/generated/live-examples/toh-pt6/stackblitz.html
+    官方demo源码下载：https://angular.cn/generated/zips/toh-pt6/toh-pt6.zip
+    如何学习Angular：https://www.zhihu.com/question/34083190
+5. TypeScript
+    学习：https://segmentfault.com/a/1190000014121295?utm_source=sf-similar-article
+6. 前端代码规范：https://guide.aotu.io/index.html
+7. JavaScript 资源大全中文版：https://github.com/jobbole/awesome-javascript-cn
 
 #### 6.2. JAVA端开发提示
 
