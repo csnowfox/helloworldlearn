@@ -31,7 +31,7 @@ CREATE DATABASE IF NOT EXISTS c1test01 DEFAULT CHARSET utf8 COLLATE utf8_general
 | 项目        | 内容   |
 | --------   | --------  | 
 | 数据库地址      | 101.52.252.44   |
-| 数据库端口      |   8080   |
+| 数据库端口      |   80   |
 | 数据库用户        |   test01    |
 | 数据库密码        |   test01#@abc    |
  
